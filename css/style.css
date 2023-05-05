@@ -493,9 +493,9 @@ a:hover{
 @media (max-width: 1200px) { 
 	#subscribe {
 		width: 85%;
-		height: 755px;
+		height: 765px;
 		margin: 0 auto;
-		padding: 32px 16px;
+		padding: 16px;
 		background-color: #fff;
 	border: 2px solid #2f2a62;
 	}
