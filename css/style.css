@@ -52,7 +52,7 @@ a:hover {
 	border-radius: 3px;
 	background-position: center center;
 	background-size: cover;
-	background-image: url('img/FCR_k.png');
+	background-image: url('.../img/FCR_k.png');
 	transition: opacity .2s, border-radius .2s, box-shadow .2s;
 	transition-timing-function: ease-out;
 }
