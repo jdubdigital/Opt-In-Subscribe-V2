@@ -248,13 +248,13 @@ a:hover{
 
 .case-study-wrapper {
 	position: absolute;
-	top: 26%;
+	top: 24%;
 	left: 50%;
 	z-index: 10;
 	width: auto;
 	text-align: center;
 	margin: 0;
-	padding: 8px 15px;
+	padding: 15px;
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	list-style: none;
@@ -495,7 +495,7 @@ a:hover{
 		width: 85%;
 		height: 765px;
 		margin: 0 auto;
-		padding: 16px;
+		padding: 16 16px;
 		background-color: #fff;
 	border: 2px solid #2f2a62;
 	}
@@ -547,7 +547,7 @@ a:hover{
 	width: 80%;
 	text-align: center;
 	margin: 0;
-	padding: 8px 10px;
+	padding: 10px;
 	-webkit-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	list-style: none;
